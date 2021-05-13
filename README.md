@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [В Credit Card Number Validator отклоняются 15-значные номера карт Voyager](https://github.com/ElenaVedernikova/Project_J_1_1/issues/1)
+* [Некорректный подсчёт общей суммы баланса в приложении Money Transfer](https://github.com/ElenaVedernikova/Project_J_1_2_1/issues/1)
 
 ## Описание процесса тестирования
 
